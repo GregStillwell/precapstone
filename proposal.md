@@ -5,3 +5,4 @@ feb 10th 5:40 - putting website in sticky notes on how to do c# games
 feb 10th 6:00 - reviewing other languages on rpg games
 feb 10th 8:48 - Researching movement for my rpg games
 feb 10th 10:00 - watching videos on how to make a c# game
+feb 11th 2:25 - watching more video what to start
